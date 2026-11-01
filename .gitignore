@@ -1,0 +1,9 @@
+mbanking_sentiment/
+*.npy
+*.pt
+*.safetensors
+.ipynb_checkpoints/
+__pycache__/
+*.aux
+*.log
+*.out
