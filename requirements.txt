@@ -1,0 +1,9 @@
+google-play-scraper
+pandas
+numpy
+scipy
+scikit-learn
+statsmodels
+matplotlib
+torch
+transformers
